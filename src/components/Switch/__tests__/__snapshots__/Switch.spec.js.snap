@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Switch test suite should render <Switch /> 1`] = `
+<div>
+  <div
+    class="toggle-switch m-5"
+    data-testid="toggle-switch"
+  >
+    <input
+      checked=""
+      class="toggle-switch-checkbox"
+      id="switch"
+      name="switch"
+      readonly=""
+      type="checkbox"
+    />
+    <label
+      class="toggle-switch-label"
+      for="switch"
+    >
+      <span
+        class="toggle-switch-inner"
+        data-no="No"
+        data-yes="Yes"
+      />
+      <span
+        class="toggle-switch-switch"
+      />
+    </label>
+  </div>
+</div>
+`;

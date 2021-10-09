@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DebouncedInput test suite should render <DebouncedInput /> 1`] = `
+<div>
+  <label
+    class="debounced-input__label"
+    for="subreddit"
+  >
+    <input
+      class="debounced-input__input"
+      data-testid="debouncedInput"
+      id="subreddit"
+      value=""
+    />
+  </label>
+</div>
+`;

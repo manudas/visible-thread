@@ -1,0 +1,16 @@
+.popup {
+    &__container {
+        position: fixed;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: rgba(110, 105, 92, 0.7);
+    }
+    &__content {
+        padding: 30px;
+        border-radius: 5px;
+    }
+}

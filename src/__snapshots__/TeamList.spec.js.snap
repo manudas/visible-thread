@@ -1,0 +1,204 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test suite for TeamList Add a team if does not exists 1`] = `
+<div>
+  <label
+    class="debounced-input__label"
+    for="subreddit"
+  >
+    Scans to fetch
+    <input
+      class="debounced-input__input"
+      data-testid="debouncedInput"
+      id="subreddit"
+      value=""
+    />
+  </label>
+  <div
+    class="toggle-switch m-5"
+    data-testid="toggle-switch"
+  >
+    <input
+      class="toggle-switch-checkbox"
+      id="switch"
+      name="switch"
+      readonly=""
+      type="checkbox"
+    />
+    <label
+      class="toggle-switch-label"
+      for="switch"
+    >
+      <span
+        class="toggle-switch-inner"
+        data-no="Months"
+        data-yes="Weeks"
+      />
+      <span
+        class="toggle-switch-switch"
+      />
+    </label>
+  </div>
+  <div>
+    <label
+      class="debounced-input__label"
+      for="subreddit"
+    >
+      Create new team
+      <input
+        class="debounced-input__input"
+        data-testid="debouncedInput"
+        id="subreddit"
+        value="Team 100"
+      />
+    </label>
+    <button
+      class="btn btn-primary m-5"
+    >
+      Click to create
+    </button>
+  </div>
+  <div
+    class="popup__container"
+    data-testid="popup__container"
+  >
+    <div
+      class="popup__content bg-light"
+    >
+      Team added successfuly
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test suite for TeamList cannot add team if team exists 1`] = `
+<div>
+  <label
+    class="debounced-input__label"
+    for="subreddit"
+  >
+    Scans to fetch
+    <input
+      class="debounced-input__input"
+      data-testid="debouncedInput"
+      id="subreddit"
+      value=""
+    />
+  </label>
+  <div
+    class="toggle-switch m-5"
+    data-testid="toggle-switch"
+  >
+    <input
+      class="toggle-switch-checkbox"
+      id="switch"
+      name="switch"
+      readonly=""
+      type="checkbox"
+    />
+    <label
+      class="toggle-switch-label"
+      for="switch"
+    >
+      <span
+        class="toggle-switch-inner"
+        data-no="Months"
+        data-yes="Weeks"
+      />
+      <span
+        class="toggle-switch-switch"
+      />
+    </label>
+  </div>
+  <div>
+    <label
+      class="debounced-input__label"
+      for="subreddit"
+    >
+      Create new team
+      <input
+        class="debounced-input__input"
+        data-testid="debouncedInput"
+        id="subreddit"
+        value="Team 1"
+      />
+    </label>
+    <button
+      class="btn btn-primary m-5"
+    >
+      Click to create
+    </button>
+  </div>
+  <div
+    class="popup__container"
+    data-testid="popup__container"
+  >
+    <div
+      class="popup__content bg-light"
+    >
+      Team wasn't added as it actually exists one team with the same name
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Test suite for TeamList should render and be in the document 1`] = `
+<div>
+  <label
+    class="debounced-input__label"
+    for="subreddit"
+  >
+    Scans to fetch
+    <input
+      class="debounced-input__input"
+      data-testid="debouncedInput"
+      id="subreddit"
+      value=""
+    />
+  </label>
+  <div
+    class="toggle-switch m-5"
+    data-testid="toggle-switch"
+  >
+    <input
+      class="toggle-switch-checkbox"
+      id="switch"
+      name="switch"
+      readonly=""
+      type="checkbox"
+    />
+    <label
+      class="toggle-switch-label"
+      for="switch"
+    >
+      <span
+        class="toggle-switch-inner"
+        data-no="Months"
+        data-yes="Weeks"
+      />
+      <span
+        class="toggle-switch-switch"
+      />
+    </label>
+  </div>
+  <div>
+    <label
+      class="debounced-input__label"
+      for="subreddit"
+    >
+      Create new team
+      <input
+        class="debounced-input__input"
+        data-testid="debouncedInput"
+        id="subreddit"
+        value=""
+      />
+    </label>
+    <button
+      class="btn btn-primary m-5"
+    >
+      Click to create
+    </button>
+  </div>
+</div>
+`;

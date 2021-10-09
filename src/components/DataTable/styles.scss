@@ -1,0 +1,8 @@
+.fixedTable {
+    width: 250px;
+    height: fit-content;
+}
+
+.table tr:nth-child(even) {
+    background: #e4e4e4;
+}

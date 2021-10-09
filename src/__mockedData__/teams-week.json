@@ -1,0 +1,642 @@
+[
+    {
+        "teamName": "Team 1",
+        "date": "2021-10-02",
+        "scansAWeek": 15
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-09-25",
+        "scansAWeek": 79
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-09-18",
+        "scansAWeek": 109
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-09-11",
+        "scansAWeek": 147
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-09-04",
+        "scansAWeek": 77
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-08-28",
+        "scansAWeek": 20
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-08-21",
+        "scansAWeek": 132
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-08-14",
+        "scansAWeek": 94
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-08-07",
+        "scansAWeek": 173
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-07-31",
+        "scansAWeek": 208
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-07-24",
+        "scansAWeek": 112
+    },
+    {
+        "teamName": "Team 1",
+        "date": "2021-07-17",
+        "scansAWeek": 82
+    },
+    {
+        "teamName": "Team 1",
+        "totalScans": 1248
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-10-02",
+        "scansAWeek": 15
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-09-25",
+        "scansAWeek": 232
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-09-18",
+        "scansAWeek": 141
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-09-11",
+        "scansAWeek": 207
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-09-04",
+        "scansAWeek": 5
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-08-28",
+        "scansAWeek": 3
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-08-21",
+        "scansAWeek": 116
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-08-14",
+        "scansAWeek": 198
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-08-07",
+        "scansAWeek": 247
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-07-31",
+        "scansAWeek": 214
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-07-24",
+        "scansAWeek": 114
+    },
+    {
+        "teamName": "Team 2",
+        "date": "2021-07-17",
+        "scansAWeek": 163
+    },
+    {
+        "teamName": "Team 2",
+        "totalScans": 1655
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-10-02",
+        "scansAWeek": 156
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-09-25",
+        "scansAWeek": 176
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-09-18",
+        "scansAWeek": 231
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-09-11",
+        "scansAWeek": 167
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-09-04",
+        "scansAWeek": 219
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-08-28",
+        "scansAWeek": 203
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-08-21",
+        "scansAWeek": 227
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-08-14",
+        "scansAWeek": 14
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-08-07",
+        "scansAWeek": 52
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-07-31",
+        "scansAWeek": 245
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-07-24",
+        "scansAWeek": 162
+    },
+    {
+        "teamName": "Team 3",
+        "date": "2021-07-17",
+        "scansAWeek": 143
+    },
+    {
+        "teamName": "Team 3",
+        "totalScans": 1995
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-10-02",
+        "scansAWeek": 201
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-09-25",
+        "scansAWeek": 133
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-09-18",
+        "scansAWeek": 218
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-09-11",
+        "scansAWeek": 166
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-09-04",
+        "scansAWeek": 205
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-08-28",
+        "scansAWeek": 1
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-08-21",
+        "scansAWeek": 137
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-08-14",
+        "scansAWeek": 142
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-08-07",
+        "scansAWeek": 93
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-07-31",
+        "scansAWeek": 31
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-07-24",
+        "scansAWeek": 115
+    },
+    {
+        "teamName": "Team 4",
+        "date": "2021-07-17",
+        "scansAWeek": 188
+    },
+    {
+        "teamName": "Team 4",
+        "totalScans": 1630
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-10-02",
+        "scansAWeek": 96
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-09-25",
+        "scansAWeek": 160
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-09-18",
+        "scansAWeek": 242
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-09-11",
+        "scansAWeek": 135
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-09-04",
+        "scansAWeek": 24
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-08-28",
+        "scansAWeek": 92
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-08-21",
+        "scansAWeek": 13
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-08-14",
+        "scansAWeek": 218
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-08-07",
+        "scansAWeek": 244
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-07-31",
+        "scansAWeek": 128
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-07-24",
+        "scansAWeek": 162
+    },
+    {
+        "teamName": "Team 5",
+        "date": "2021-07-17",
+        "scansAWeek": 15
+    },
+    {
+        "teamName": "Team 5",
+        "totalScans": 1529
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-10-02",
+        "scansAWeek": 200
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-09-25",
+        "scansAWeek": 8
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-09-18",
+        "scansAWeek": 22
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-09-11",
+        "scansAWeek": 128
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-09-04",
+        "scansAWeek": 167
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-08-28",
+        "scansAWeek": 204
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-08-21",
+        "scansAWeek": 217
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-08-14",
+        "scansAWeek": 23
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-08-07",
+        "scansAWeek": 71
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-07-31",
+        "scansAWeek": 80
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-07-24",
+        "scansAWeek": 190
+    },
+    {
+        "teamName": "Team 6",
+        "date": "2021-07-17",
+        "scansAWeek": 159
+    },
+    {
+        "teamName": "Team 6",
+        "totalScans": 1469
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-10-02",
+        "scansAWeek": 1
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-09-25",
+        "scansAWeek": 188
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-09-18",
+        "scansAWeek": 209
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-09-11",
+        "scansAWeek": 233
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-09-04",
+        "scansAWeek": 122
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-08-28",
+        "scansAWeek": 191
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-08-21",
+        "scansAWeek": 97
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-08-14",
+        "scansAWeek": 31
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-08-07",
+        "scansAWeek": 136
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-07-31",
+        "scansAWeek": 138
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-07-24",
+        "scansAWeek": 14
+    },
+    {
+        "teamName": "Team 7",
+        "date": "2021-07-17",
+        "scansAWeek": 215
+    },
+    {
+        "teamName": "Team 7",
+        "totalScans": 1575
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-10-02",
+        "scansAWeek": 118
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-09-25",
+        "scansAWeek": 112
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-09-18",
+        "scansAWeek": 244
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-09-11",
+        "scansAWeek": 160
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-09-04",
+        "scansAWeek": 105
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-08-28",
+        "scansAWeek": 24
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-08-21",
+        "scansAWeek": 210
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-08-14",
+        "scansAWeek": 134
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-08-07",
+        "scansAWeek": 108
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-07-31",
+        "scansAWeek": 49
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-07-24",
+        "scansAWeek": 57
+    },
+    {
+        "teamName": "Team 8",
+        "date": "2021-07-17",
+        "scansAWeek": 68
+    },
+    {
+        "teamName": "Team 8",
+        "totalScans": 1389
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-10-02",
+        "scansAWeek": 96
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-09-25",
+        "scansAWeek": 171
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-09-18",
+        "scansAWeek": 95
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-09-11",
+        "scansAWeek": 236
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-09-04",
+        "scansAWeek": 197
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-08-28",
+        "scansAWeek": 90
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-08-21",
+        "scansAWeek": 207
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-08-14",
+        "scansAWeek": 231
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-08-07",
+        "scansAWeek": 169
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-07-31",
+        "scansAWeek": 232
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-07-24",
+        "scansAWeek": 153
+    },
+    {
+        "teamName": "Team 9",
+        "date": "2021-07-17",
+        "scansAWeek": 248
+    },
+    {
+        "teamName": "Team 9",
+        "totalScans": 2125
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-10-02",
+        "scansAWeek": 157
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-09-25",
+        "scansAWeek": 109
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-09-18",
+        "scansAWeek": 80
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-09-11",
+        "scansAWeek": 84
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-09-04",
+        "scansAWeek": 161
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-08-28",
+        "scansAWeek": 104
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-08-21",
+        "scansAWeek": 41
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-08-14",
+        "scansAWeek": 205
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-08-07",
+        "scansAWeek": 59
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-07-31",
+        "scansAWeek": 60
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-07-24",
+        "scansAWeek": 143
+    },
+    {
+        "teamName": "Team 10",
+        "date": "2021-07-17",
+        "scansAWeek": 137
+    },
+    {
+        "teamName": "Team 10",
+        "totalScans": 1340
+    }
+]

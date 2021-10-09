@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Popup test suite should render <Popup /> with data 1`] = `
+<div>
+  <div
+    class="popup__container"
+    data-testid="popup__container"
+  >
+    <div
+      class="popup__content bg-light"
+    >
+      <div>
+        Total scans in week 
+        0
+        : 
+        5
+      </div>
+      <div>
+        Total scans in week 
+        1
+        : 
+        6
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Popup test suite should render <Popup /> with text 1`] = `
+<div>
+  <div
+    class="popup__container"
+    data-testid="popup__container"
+  >
+    <div
+      class="popup__content bg-light"
+    >
+      Test message
+    </div>
+  </div>
+</div>
+`;
