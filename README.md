@@ -1,6 +1,6 @@
-# Visual Thread
+# Visible Thread
 
-## Visual Thread Coding Challenge
+## Visible Thread Coding Challenge
 
 ## Introduction
 
